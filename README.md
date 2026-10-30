@@ -34,7 +34,9 @@ Java Streams, expresiones lambda, inmutabilidad, funciones de orden superior, co
 
 ## Autoría
 
-Maria Daniela Orrego Potosí
+- Maria Daniela Orrego Potosí
+- Juan David Arboleda Cortes
+- Ivan David Gonzales Mercado
 
 ## Repositorio
 
